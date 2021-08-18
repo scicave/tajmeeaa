@@ -178,7 +178,7 @@ __ملاحظات:__
 
 - https://github.com/AbdelrahmanBayoumi/Azkar-App
 
-  <span dir=ltr>Desktop Application 💻 for: Calculating Muslim prayer times 🕌 Morning and Nights Azkar with reminder 🤲 With notification for random Azkar that pops-up in specific time 💬. برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌 قراءة أذكار الصباح و المساء مع التذكير بها 🤲 ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬 Note Thanks for providing us open source license for the installers used in Azkar distribution.</span>
+  <span dir="rtl">برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span><br><span dir="ltr">Desktop Application 💻 for: Calculating Muslim prayer times 🕌, Morning and Night Azkar with reminder 🤲, With notification for random Azkar that pops-up in specific time 💬.</span>
 
 - https://github.com/Mosque-Screens/Mosque-Screen/?ref=producthunt
 
@@ -188,7 +188,7 @@ __ملاحظات:__
 
 - https://github.com/AbdelrahmanBayoumi/Azkar-App
 
-  <span dir=ltr>Desktop Application 💻 for: Calculating Muslim prayer times 🕌 Morning and Nights Azkar with reminder 🤲 With notification for random Azkar that pops-up in specific time 💬. برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌 قراءة أذكار الصباح و المساء مع التذكير بها 🤲 ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬 Note Thanks for providing us open source license for the installers used in Azkar distribution.</span>
+  <span dir="rtl">برنامج لسطح المكتب 💻 يساعدك على: معرفة مواقيت الصلاة 🕌، قراءة أذكار الصباح و المساء مع التذكير بها 🤲، ظهور إشعارات بذكر او دعاء عشوائي كل فترة محددة 💬.</span><br><span dir="ltr">Desktop Application 💻 for: Calculating Muslim prayer times 🕌, Morning and Night Azkar with reminder 🤲, With notification for random Azkar that pops-up in specific time 💬.</span>
 
 ## منوعات
 
